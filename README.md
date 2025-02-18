@@ -1,4 +1,4 @@
-# SemesterArbeit_2
+# Semesterarbeit_2
 
 
 ## Problemstellung ⚠️
