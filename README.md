@@ -19,7 +19,7 @@ System soll zudem individuell konfigurierbar sein, damit die Techniker nur relev
 Warnungen erhalten. Ein automatisiertes Benachrichtigungssystem, das kritische Ereignisse per E-Mail 
 und in akuten Fällen zusätzlich per SMS kommuniziert, soll die Reaktionszeit verkürzen und das 
 Wartungsteam in die Lage versetzen, gezielte Massnahmen zu ergreifen, bevor Schäden entstehen.<p>
-![s](Medien/33.png){ width=200px }
+![s](Medien/33.png) 
 
 ## Ziele 🎯 
 
