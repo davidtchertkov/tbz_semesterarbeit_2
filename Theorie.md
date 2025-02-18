@@ -1,6 +1,6 @@
 ## Theorie zu den verschiedenen Komponenten
 
-[TOC]
+__TOC__ 
 
 ## Was sind die schlechten Wetterbedingungen für Solaranlagen?
 Der Grund, warum ich diesen Abschnitt in meine Theorie einbeziehe, liegt darin, dass mein Wetter-Notifier die verschiedenen Wettereigenschaften berücksichtigen muss. Es ist entscheidend, zu verstehen, welche relevanten Daten tatsächlich beim Empfänger ankommen.
